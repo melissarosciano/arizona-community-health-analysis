@@ -128,3 +128,10 @@ Power Query data preparation, DAX calculations, filter context management, condi
 ### Community Health Overview
 
 ![Arizona Community Health Overview](Portfolio_Assets/01_Community_Health_Overview.png)
+### County Comparison
+
+![Arizona County Comparison](Portfolio_Assets/02_County_Comparison.png)
+
+### Health Relationships
+
+![Diabetes and Obesity Relationships](Portfolio_Assets/03_Health_Relationships.png)
