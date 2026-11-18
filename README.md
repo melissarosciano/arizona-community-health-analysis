@@ -1,34 +1,32 @@
-### **Arizona Community Health Outcomes \& Disparities Analysis**
-
-### 
-
-Tools: Power BI Desktop, Power Query, DAX
+# Arizona Community Health Outcomes & Disparities Analysis
 
 
-
-Data Source: Centers for Disease Control and Prevention (CDC), PLACES: Local Data for Better Health, 2025 Release.
+**Tools:** Power BI Desktop, Power Query, DAX
 
 
 
-Data Description: County-level, age-adjusted prevalence estimates for diagnosed diabetes and obesity among adults aged 18 and older. The 2025 release uses 2023 Behavioral Risk Factor Surveillance System (BRFSS) data for these measures, along with U.S. Census Bureau and American Community Survey data.
+**Data Source:** Centers for Disease Control and Prevention (CDC), PLACES: Local Data for Better Health, 2025 Release.
 
 
 
-Geographic Scope: All 15 Arizona counties.
+**Data Description:** County-level, age-adjusted prevalence estimates for diagnosed diabetes and obesity among adults aged 18 and older. The 2025 release uses 2023 Behavioral Risk Factor Surveillance System (BRFSS) data for these measures, along with U.S. Census Bureau and American Community Survey data.
 
 
 
-Data Source Reference: https://www.cdc.gov/places/
+**Geographic Scope:** All 15 Arizona counties.
 
 
 
-Methodology Reference: https://www.cdc.gov/places/methodology/
-
-Geographic Scope: 15 Arizona Counties
+**Data Source Reference:** https://www.cdc.gov/places/
 
 
 
-##### Project Overview
+**Methodology Reference:** https://www.cdc.gov/places/methodology/
+
+
+
+
+## Project Overview
 
 
 
@@ -40,21 +38,21 @@ The project explores variations in chronic disease burden, compares county-level
 
 
 
-##### Analytical Objectives
+## Analytical Objectives
 
 ##### 
 
-\* Compare age-adjusted diabetes and obesity prevalence across Arizona counties.
+* Compare age-adjusted diabetes and obesity prevalence across Arizona counties.
 
-\* Identify counties with estimates above or below the unweighted county average.
+* Identify counties with estimates above or below the unweighted county average.
 
-\* Evaluate the linear relationship between obesity and diabetes prevalence.
+* Evaluate the linear relationship between obesity and diabetes prevalence.
 
-\* Present results through interactive visualizations and comparative indicators.
+* Present results through interactive visualizations and comparative indicators.
 
 
 
-##### Data Preparation and Analysis
+## Data Preparation and Analysis
 
 
 
@@ -70,11 +68,11 @@ Created three interactive report pages: Community Health Overview, County Compar
 
 
 
-##### Key Findings
+## Key Findings
 
 
 
-1\. Diabetes prevalence
+**1\. Diabetes prevalence**
 
 
 
@@ -82,7 +80,7 @@ The unweighted average of county-level age-adjusted diagnosed diabetes prevalenc
 
 
 
-2\. Obesity prevalence
+**2\. Obesity prevalence**
 
 
 
@@ -90,7 +88,7 @@ The unweighted average of county-level age-adjusted obesity prevalence estimates
 
 
 
-3\. Geographic disparities
+**3\. Geographic disparities**
 
 
 
@@ -98,7 +96,7 @@ Apache County’s estimated diabetes prevalence was 4.3 percentage points above 
 
 
 
-4\. Relationship between diabetes and obesity
+**4\. Relationship between diabetes and obesity**
 
 
 
@@ -106,7 +104,7 @@ Pearson’s correlation coefficient was 0.66, indicating a moderately strong pos
 
 
 
-##### Methodological Limitations
+## Methodological Limitations
 
 
 
@@ -118,7 +116,7 @@ County-average benchmarks are unweighted means of geographic estimates, not popu
 
 
 
-##### Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 
 
