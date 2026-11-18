@@ -123,4 +123,8 @@ County-average benchmarks are unweighted means of geographic estimates, not popu
 
 
 Power Query data preparation, DAX calculations, filter context management, conditional formatting, interactive slicers, benchmark comparisons, scatter plots, and analytical data storytelling.
+## Dashboard Preview
 
+### Community Health Overview
+
+![Arizona Community Health Overview](Portfolio_Assets/01_Community_Health_Overview.png)
